@@ -5,7 +5,7 @@ FlickrApp itself has a variety of other helper methods but this is the short and
 sweet example to get you started.
 
 This application will do nothing more than check to see if you're signed in and
-offer to log you in if you're not and log you out if you are. 
+offer to log you in if you're not and log you out if you are.
 
 You will need:
 
